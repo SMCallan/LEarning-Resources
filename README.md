@@ -1,6 +1,6 @@
 # LEarning-Resources
 A compiled list of useful learning paths, built up over time.
-
+Typically, click through to settings, and locate the html live deployment to github pages. If not available to user, deploy in your own local environment.
 
 Hacking learning path:
 https://github.com/SMCallan/Learn-to-hack
