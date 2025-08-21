@@ -16,3 +16,5 @@ Signposted OSINT Dashboards:
 https://github.com/SMCallan/OSINT_Signposting
 https://github.com/SMCallan/OSINT
 
+Learning C for Ethical Hacking or low-level, or OS development:
+https://smcallan.github.io/Where-How-to-learn-C/#main
