@@ -9,8 +9,10 @@ https://github.com/SMCallan/Learn-to-Hack-like-Callan
 Ethical hacker role Req:
 https://github.com/SMCallan/role-readiness
 
-OSINT dashboards:
+OSINT Live Dashboard:
 https://github.com/SMCallan/VulnWatch-UK
+
+Signposted OSINT Dashboards:
 https://github.com/SMCallan/OSINT_Signposting
 https://github.com/SMCallan/OSINT
 
